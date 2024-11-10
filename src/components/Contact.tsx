@@ -7,9 +7,9 @@ function Contact() {
     <div id='contact' className='pt-16 container'>
         <div className='grid md:grid-cols-2 gap-10'>
             <div className='space-y-5'>
-                <h2 className='text-5xl'>Let's Connect</h2>
+                <h2 className='text-5xl'>Lets Connect</h2>
                 <p className='text-black text-[18px] pt-2'>
-                Connect with me through your preferred communication channel - contact form, phone, or email. I welcome your correspondence.
+                Connect with me through your preferred communication channel - contact form, phone, or email. I welcome your correspondence
                 </p>
                 <div className='flex gap-1 items-center '>
                 <MdAttachEmail size={30} /> farhansiddiquiai@gmail.com
